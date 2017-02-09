@@ -1,0 +1,9 @@
+D:\Programowanie\VisualProjects\BackgroundProject\BackgroundProject\bin\Debug\BackgroundProject.exe.config
+D:\Programowanie\VisualProjects\BackgroundProject\BackgroundProject\bin\Debug\BackgroundProject.exe
+D:\Programowanie\VisualProjects\BackgroundProject\BackgroundProject\bin\Debug\BackgroundProject.pdb
+D:\Programowanie\VisualProjects\BackgroundProject\BackgroundProject\obj\Debug\BackgroundProject.csprojResolveAssemblyReference.cache
+D:\Programowanie\VisualProjects\BackgroundProject\BackgroundProject\obj\Debug\BackgroundProject.Properties.Resources.resources
+D:\Programowanie\VisualProjects\BackgroundProject\BackgroundProject\obj\Debug\BackgroundProject.csproj.GenerateResource.Cache
+D:\Programowanie\VisualProjects\BackgroundProject\BackgroundProject\obj\Debug\BackgroundProject.exe
+D:\Programowanie\VisualProjects\BackgroundProject\BackgroundProject\obj\Debug\BackgroundProject.pdb
+D:\Programowanie\VisualProjects\BackgroundProject\BackgroundProject\obj\Debug\BackgroundProject.BackgroundWorker.resources
